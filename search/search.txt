@@ -1,0 +1,10 @@
+- redirect user into another page with window.location in javascript
+
+There are three main ways to redirect to another URL with JavaScript: 
+window.location.href
+location.assign()
+location.replace()
+
+- checkValidity and setCustomValidity in javascript validation api
+checkValidity()	Returns true if an input element contains valid data.
+setCustomValidity()	Sets the validationMessage property of an input element.
